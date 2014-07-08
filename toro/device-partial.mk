@@ -30,4 +30,4 @@ PRODUCT_PACKAGES := \
     libusc_SGX540_120
 
 PRODUCT_COPY_FILES += \
-    vendor/imgtec/toro/proprietary/etc/powervr.ini:/system/etc/powervr.ini
+    vendor/imgtec/toro/proprietary/powervr.ini:/system/etc/powervr.ini
